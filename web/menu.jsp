@@ -1,8 +1,3 @@
-<%-- 
-    Document   : menu
-    Created on : 16/06/2020, 01:52:58 PM
-    Author     : UPEU
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -12,6 +7,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        Bienvenidos al Proyecto de Aplicación....
     </body>
 </html>
